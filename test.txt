@@ -1,0 +1,5 @@
+Hi,
+
+First Git commit from GIT Bash.
+
+Testing Delete the repository later.
